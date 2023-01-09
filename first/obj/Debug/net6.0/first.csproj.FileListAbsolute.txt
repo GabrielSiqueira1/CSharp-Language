@@ -1,0 +1,15 @@
+C:\Users\gabri\Projetos\C#-Language\first\bin\Debug\net6.0\first.exe
+C:\Users\gabri\Projetos\C#-Language\first\bin\Debug\net6.0\first.deps.json
+C:\Users\gabri\Projetos\C#-Language\first\bin\Debug\net6.0\first.runtimeconfig.json
+C:\Users\gabri\Projetos\C#-Language\first\bin\Debug\net6.0\first.dll
+C:\Users\gabri\Projetos\C#-Language\first\bin\Debug\net6.0\first.pdb
+C:\Users\gabri\Projetos\C#-Language\first\obj\Debug\net6.0\first.csproj.AssemblyReference.cache
+C:\Users\gabri\Projetos\C#-Language\first\obj\Debug\net6.0\first.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Projetos\C#-Language\first\obj\Debug\net6.0\first.AssemblyInfoInputs.cache
+C:\Users\gabri\Projetos\C#-Language\first\obj\Debug\net6.0\first.AssemblyInfo.cs
+C:\Users\gabri\Projetos\C#-Language\first\obj\Debug\net6.0\first.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Projetos\C#-Language\first\obj\Debug\net6.0\first.dll
+C:\Users\gabri\Projetos\C#-Language\first\obj\Debug\net6.0\refint\first.dll
+C:\Users\gabri\Projetos\C#-Language\first\obj\Debug\net6.0\first.pdb
+C:\Users\gabri\Projetos\C#-Language\first\obj\Debug\net6.0\first.genruntimeconfig.cache
+C:\Users\gabri\Projetos\C#-Language\first\obj\Debug\net6.0\ref\first.dll

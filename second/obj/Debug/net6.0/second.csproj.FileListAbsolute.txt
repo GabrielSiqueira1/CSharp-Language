@@ -1,0 +1,15 @@
+C:\Users\gabri\Projetos\C#-Language\second\bin\Debug\net6.0\second.exe
+C:\Users\gabri\Projetos\C#-Language\second\bin\Debug\net6.0\second.deps.json
+C:\Users\gabri\Projetos\C#-Language\second\bin\Debug\net6.0\second.runtimeconfig.json
+C:\Users\gabri\Projetos\C#-Language\second\bin\Debug\net6.0\second.dll
+C:\Users\gabri\Projetos\C#-Language\second\bin\Debug\net6.0\second.pdb
+C:\Users\gabri\Projetos\C#-Language\second\obj\Debug\net6.0\second.csproj.AssemblyReference.cache
+C:\Users\gabri\Projetos\C#-Language\second\obj\Debug\net6.0\second.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Projetos\C#-Language\second\obj\Debug\net6.0\second.AssemblyInfoInputs.cache
+C:\Users\gabri\Projetos\C#-Language\second\obj\Debug\net6.0\second.AssemblyInfo.cs
+C:\Users\gabri\Projetos\C#-Language\second\obj\Debug\net6.0\second.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Projetos\C#-Language\second\obj\Debug\net6.0\second.dll
+C:\Users\gabri\Projetos\C#-Language\second\obj\Debug\net6.0\refint\second.dll
+C:\Users\gabri\Projetos\C#-Language\second\obj\Debug\net6.0\second.pdb
+C:\Users\gabri\Projetos\C#-Language\second\obj\Debug\net6.0\second.genruntimeconfig.cache
+C:\Users\gabri\Projetos\C#-Language\second\obj\Debug\net6.0\ref\second.dll
