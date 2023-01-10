@@ -1,0 +1,15 @@
+C:\Users\gabri\Projetos\C#-Language\fourth\bin\Debug\net6.0\fourth.exe
+C:\Users\gabri\Projetos\C#-Language\fourth\bin\Debug\net6.0\fourth.deps.json
+C:\Users\gabri\Projetos\C#-Language\fourth\bin\Debug\net6.0\fourth.runtimeconfig.json
+C:\Users\gabri\Projetos\C#-Language\fourth\bin\Debug\net6.0\fourth.dll
+C:\Users\gabri\Projetos\C#-Language\fourth\bin\Debug\net6.0\fourth.pdb
+C:\Users\gabri\Projetos\C#-Language\fourth\obj\Debug\net6.0\fourth.csproj.AssemblyReference.cache
+C:\Users\gabri\Projetos\C#-Language\fourth\obj\Debug\net6.0\fourth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Projetos\C#-Language\fourth\obj\Debug\net6.0\fourth.AssemblyInfoInputs.cache
+C:\Users\gabri\Projetos\C#-Language\fourth\obj\Debug\net6.0\fourth.AssemblyInfo.cs
+C:\Users\gabri\Projetos\C#-Language\fourth\obj\Debug\net6.0\fourth.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Projetos\C#-Language\fourth\obj\Debug\net6.0\fourth.dll
+C:\Users\gabri\Projetos\C#-Language\fourth\obj\Debug\net6.0\refint\fourth.dll
+C:\Users\gabri\Projetos\C#-Language\fourth\obj\Debug\net6.0\fourth.pdb
+C:\Users\gabri\Projetos\C#-Language\fourth\obj\Debug\net6.0\fourth.genruntimeconfig.cache
+C:\Users\gabri\Projetos\C#-Language\fourth\obj\Debug\net6.0\ref\fourth.dll
